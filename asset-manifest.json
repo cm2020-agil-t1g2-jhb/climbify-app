@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/climbify-app/static/css/main.073c9b0a.css",
-    "main.js": "/climbify-app/static/js/main.2ef4c44b.js",
+    "main.css": "/climbify-app/static/css/main.40275a0d.css",
+    "main.js": "/climbify-app/static/js/main.042bf159.js",
     "static/js/787.da087cb7.chunk.js": "/climbify-app/static/js/787.da087cb7.chunk.js",
     "service-worker.js": "/climbify-app/service-worker.js",
-    "static/media/logo.svg": "/climbify-app/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "static/media/logo.svg": "/climbify-app/static/media/logo.193de5456af514772feb23eb9b634bb5.svg",
     "index.html": "/climbify-app/index.html",
-    "main.073c9b0a.css.map": "/climbify-app/static/css/main.073c9b0a.css.map",
-    "main.2ef4c44b.js.map": "/climbify-app/static/js/main.2ef4c44b.js.map",
+    "main.40275a0d.css.map": "/climbify-app/static/css/main.40275a0d.css.map",
+    "main.042bf159.js.map": "/climbify-app/static/js/main.042bf159.js.map",
     "787.da087cb7.chunk.js.map": "/climbify-app/static/js/787.da087cb7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.2ef4c44b.js"
+    "static/css/main.40275a0d.css",
+    "static/js/main.042bf159.js"
   ]
 }
